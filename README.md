@@ -6,6 +6,7 @@
 
 * In the Arduino software, click File > Preferences. In "Additional boards manager URLs", copy this link `https://www.pjrc.com/teensy/package_teensy_index.json`
 * In the main Arduino window, open Boards Manager by clicking the left-side board icon, search for "teensy", and click "Install". **For me v 1.59 did not work, but 1.58.2 does work**.
+* Install Arduino libs *Artnet* and *FastLed*
 
 ## Hardware
 

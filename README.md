@@ -11,7 +11,7 @@
 
 * Leds: WS2812B RGB (Neopixel) Datasheet  https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf?srsltid=AfmBOopn6hdD0nUr_h_i0I6TTAt4FAZ8JJZVWGaKcjdeEGRCWYdkzq9v
 
-* Might need a logic level shifter, from 3.3 to 5V (to be tested) Datasheet states a minimum high volate
+* Might need a logic level shifter, from 3.3 to 5V (to be tested) Datasheet states a minimum high voltage rating of 0.7V, which sould be fine.
 
   * Level shift circuit using a MOSFET:
 
